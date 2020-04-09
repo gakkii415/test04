@@ -1,4 +1,7 @@
 @charset "UTF-8";
+body{
+	margin: 0;
+}
 .gnav{
 	height: 120px;
 	background-color: #e2c136;
